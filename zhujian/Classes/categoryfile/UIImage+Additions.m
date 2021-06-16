@@ -11,6 +11,7 @@
 @implementation UIImage (Additions)
 
 - (UIImage *)tintImageWithColor:(UIColor *)tintColor {
+    
     UIGraphicsBeginImageContextWithOptions(self.size, NO, [[UIScreen mainScreen] scale]);
     CGContextRef context = UIGraphicsGetCurrentContext();
 
