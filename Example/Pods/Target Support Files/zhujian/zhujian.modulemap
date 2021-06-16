@@ -1,0 +1,6 @@
+framework module zhujian {
+  umbrella header "zhujian-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - zhujian (0.1.0)
+
+DEPENDENCIES:
+  - zhujian (from `../`)
+
+EXTERNAL SOURCES:
+  zhujian:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zhujian: 345efac655fecb224bff4f69022c270e7769f5c3
+
+PODFILE CHECKSUM: 0e073d7c535b67d9edc7bb859d9a914dfff7aac1
+
+COCOAPODS: 1.10.1
